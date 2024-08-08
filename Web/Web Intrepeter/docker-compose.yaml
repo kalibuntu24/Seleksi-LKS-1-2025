@@ -1,0 +1,7 @@
+services:
+  web:
+    build:
+      context: .  # Gunakan Dockerfile di direktori saat ini
+    container_name: php_app
+    ports:
+      - "9910:80"

@@ -1,0 +1,8 @@
+services:
+  chall:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "9960:9960"
+    container_name: Tokopaedi_chall

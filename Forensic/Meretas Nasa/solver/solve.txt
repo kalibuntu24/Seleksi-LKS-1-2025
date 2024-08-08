@@ -1,0 +1,1 @@
+strings capture.pcapng | grep '^hack=' | sed 's/^hack=//g' | tr -d '\n'strings capture.pcapng | grep '^hack=' | sed 's/^hack=//g' | tr -d '\n'
