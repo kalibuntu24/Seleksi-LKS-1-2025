@@ -24,4 +24,5 @@ Catatan: Format flag adalag SIJA{FAKE_FLAG}
 ## Flag
 
 ```
-SIJA{3v4l_1s_v3ry_d4ng3r0us}```
+SIJA{3v4l_1s_v3ry_d4ng3r0us}
+```
