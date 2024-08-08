@@ -7,7 +7,7 @@
 ## Description
 
 Gedung ini menjadi tempat yang berkesan bagi saya.
-Karna di gedung ini saya mengakhiri dan mengawali perjalanan hidup saya.
+Karna di gedung ini saya mengakhiri kemudian mengawali perjalanan hidup saya.
 
 Catatan: Format flag adalag SIJA{1.2345° A, 1.2345° B}
 
