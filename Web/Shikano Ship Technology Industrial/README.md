@@ -6,7 +6,7 @@
 
 ## Description
 
-Hallo, aku adalah seorang Kapten di kapal Shikano Ship Technology Industrial aka,
+Hallo, aku adalah seorang Kapten di kapal Shikano Ship Technology Industrial,
 Aku sudah mulai bosan bekerja di kapal.
 sekarang aku mulai mempelajari pekerjaan baru,
 yaitu membuat web sederhana,
