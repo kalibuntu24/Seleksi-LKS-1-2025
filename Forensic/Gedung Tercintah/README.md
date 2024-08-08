@@ -9,7 +9,7 @@
 Gedung ini menjadi tempat yang berkesan bagi saya.
 Karna di gedung ini saya mengakhiri dan mengawali perjalanan hidup saya.
 
-Catatan: Format flag adalag SIJA{1.23456789, 1.23456789}
+Catatan: Format flag adalag SIJA{1.2345° A, 1.2345° B}
 
 ## Distribution
 
@@ -22,5 +22,5 @@ Catatan: Format flag adalag SIJA{1.23456789, 1.23456789}
 ## Flag
 
 ```
-SIJA{-7.264657234472983, 112.78421728963667}
+SIJA{7.2646° S, 112.7839° E}
 ```
