@@ -4,7 +4,7 @@
 **Author** Kalibuntu
 
 ## Description
-Bosku memberikan perintah untuk memperbaiki web ini, seharusnya sudah tidak ada masalah dari perintah yang diberikan.
+Bosku baru saja memberikan perintah yang tidak jelas kepada saya untuk memperbaiki seluruh masalah yang ada pada website ini. Ia hanya memberikan catatan pada webnya, saya sudah melakukan perbaikan sesuai dengan arahan yang diberikan. Seharusnya, setelah semua langkah yang saya tempuh, tidak ada lagi masalah yang tersisa dan website ini seharusnya sudah berfungsi dengan baik seperti yang diharapkan.
 
 ## Distribution
 -
