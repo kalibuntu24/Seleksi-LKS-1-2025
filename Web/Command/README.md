@@ -4,7 +4,7 @@
 **Author** Kalibuntu
 
 ## Description
-bosku memberikan Perintah untuk memperbaiki web ini, seharusnya sudah tidak ada masalah dari Perintah yang diberikan.
+Bosku memberikan perintah untuk memperbaiki web ini, seharusnya sudah tidak ada masalah dari perintah yang diberikan.
 
 ## Distribution
 -
@@ -13,3 +13,6 @@ bosku memberikan Perintah untuk memperbaiki web ini, seharusnya sudah tidak ada 
 -
 
 ## Flag
+~~~
+SIJA{CMD_1nj3ct1on_f0r_r3all}
+~~~
